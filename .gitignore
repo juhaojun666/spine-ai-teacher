@@ -1,0 +1,17 @@
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Spine 自动备份与缓存
+backup/
+cache/
+*.spine-backup
+
+# 临时文件
+*.tmp
+*.bak
+
+# 本机环境与个人配置（不上传）
+CLAUDE.local.md
+.claude/settings.local.json

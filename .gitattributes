@@ -1,0 +1,9 @@
+# 文本文件统一换行处理
+* text=auto
+
+# 图片与 Spine 工程按二进制处理，避免错误的 diff 与合并
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.spine binary
